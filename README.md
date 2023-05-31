@@ -19,3 +19,4 @@ Instalações necessárias:
 
 npm i
 npm install qrcode-terminal 
+npm i puppeteer
